@@ -6,4 +6,4 @@ I'm a first-year Computer Science student at UMass Amherst with a passion for pr
 
 💡 I love exploring fields like Artificial Intelligence (AI) and efficient software design.
 
-📫 You can connect with me on [LinkedIn](https://www.linkedin.com/in/khoanguyendave/):.
+📫 You can connect with me on [LinkedIn](https://www.linkedin.com/in/khoanguyendave/)
